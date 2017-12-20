@@ -1,0 +1,28 @@
+{
+  "name": "iknsa-angularjs-ckeditor",
+  "homepage": "https://github.com/iknsa/angularjs-ckeditor",
+  "description": "A wrapper for CK Editor in AngularJS",
+  "main": "app.js",
+  "keywords": [
+    "angularjs",
+    "ckeditor",
+    "angular1"
+  ],
+  "authors": [
+    "Khalid Sookia <khalidsookia@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-route": "1.6",
+    "angular-sanitize": "1.6",
+    "angular": "1.6"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/vendor/",
+    "test",
+    "tests"
+  ]
+}
